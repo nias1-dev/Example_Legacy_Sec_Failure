@@ -1,0 +1,1 @@
+This program serves to as an example of working code that is not feature rich to protect data. The code increases the attack surface of the organization. A sophisticated threat actor can use the software in their recon efforts, the forms flow is public and clues the attacker into the fact that the organization does not thoroughly protect user data.
